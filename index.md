@@ -5,7 +5,8 @@ layout: default
 # Introduction
 ---------
 
-<iframe src="https://giphy.com/embed/H7rpSYHRyYgamxQNqw" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+<iframe src="https://giphy.com/embed/H7rpSYHRyYgamxQNqw" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/lo5HLcAPFSgTZNTpAn" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 Inspired by human imagination and ingenuity, autonomous vehicles encompass an entire class of technologically-driven, self-driving transportation mediums. This class includes self-driving cars, public transportation, like buses and taxis, and long-distance transport vehicles, like semi-trucks. This technology, seemingly pulled straight from an episode of The Jetsons, is no longer just science-fiction. Autonomous vehicles is a technology fervently under research, with promising case studies and technologies; some companies, for example Tesla, have even incorporated self-driving technology in vehicles on the market today, including the hardware necessary for when full self-driving is approved for mass consumers [1]. As of now, certain facets of self-driving technology is piloted in high-end vehicles in the form of "driver-assistance", which helps in lane detection, parking assistance, collision avoidance, and other detection systems that assist the driver. But it seems that fully autonomous vehicles will be here in no time!
