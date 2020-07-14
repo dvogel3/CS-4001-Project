@@ -51,6 +51,8 @@ The elements of human emotion and experience is cornerstone to the implementatio
 # Economic Implications
 ----------
 
+![Economic Implications](economics_picture.jpeg)
+
 ### Infrastructure
 
 The next ethical dimension we need to explore is the economic implications that autonomous vehicles will have on society. According to research conducted by the American Society of Civil Engineers (ASCE), US infrastructure could not support nor maintain autonomous vehicle usage on its roads and bridges, due to a lack of infrastructure investments and upgrades. As of 2017, the ASCE estimated that the United States would require $4.59 trillion in order to improve failing or deficient infrastructure [5]. Only once these deficits are corrected could US infrastructure support mass autonomous vehicle implementation across the country.
