@@ -15,6 +15,8 @@ While autonomous vehicles definitely inspire the "wow"-factor, there are implica
 # Social Implications
 -----------
 
+![HCI](hci_representation.png)
+
 We begin by discussing the social implications that autonomous vehicles can have on society. Specifically, we focus on the human-computer/human-technology interaction that arises from the use of autonomous vehicles; we also highlight the human pyschological and emotional experience with autonomous vehicles, in terms of fear and trust. We will separate this portion between two topics: autonomous personal vehicles and autonomous public transportation.
 
 ### A sidenote on human trust and technology
@@ -60,4 +62,4 @@ Studies like these may be crucial to engendering trust in self-driving personal 
 
 [4] M. Dikmen, C. Burns, "Trust in autonomous vehicles: The case of Tesla Autopilot and Summon", _2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_, pp. 1093-1098, 2017. Available: https://ieeexplore.ieee.org/abstract/document/8122757. [accessed July 14, 2020].
 
-[5]s
+[5]
