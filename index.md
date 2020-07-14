@@ -53,6 +53,9 @@ Studies like these may be crucial to engendering trust in self-driving personal 
 # References
 ----------
 [1] https://www.tesla.com/autopilot
+
 [2] E. Mordini, "Technology and fear: is wonder the key?", _Trends in Biotechnology_, vol.25, no. 12, pp. 544-546, 2007. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0167779907002661. [accessed July 14, 2020].
+
 [3] X. Li, T. Hess, and J. Valacich, "Why do we trust new technology? A study of initial trust formation with organizational information systems", _The Journal of Strategic Information Systems_, vol. 17, no. 1, pp. 39-71, 2008. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0963868708000036. [accessed July 14, 2020].
+
 [4]
