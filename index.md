@@ -61,14 +61,22 @@ Even implemented at the community level, communities would need to invest a sign
 
 ### Public Transportation Costs
 
-With the advent of self-driving technology, public transportation will likely be a sector recepient of government funded self-driving technology, to increase the efficiency of public transportation within a community [7]. However, taking a consequentialist perspective, this may not be a good way forward. Self-driving technology in public transportation will defer technology upgrade costs to users of public transportation. In the case of autonomous public buses, bus fares would most likely increase by a significant amount. This creates an economic barrier for primary users of public buses.  
+With the advent of self-driving technology, public transportation will likely be a sector recipient of government funded self-driving technology, to increase the efficiency of public transportation within a community [7]. However, taking a consequentialist perspective, this may not be a good way forward. Self-driving technology in public transportation will defer technology upgrade costs to users of public transportation. In the case of autonomous public buses, bus fares would most likely increase by a significant amount to offset the technology upgrade. This creates an economic barrier for primary users of public buses because more often than not, these primary users are already economically disadvantaged. Deontologically speaking, this increase in price (however modest it is) hurts financially-unstable individuals. A way forward would be to have some sort of federal subsidy that helps cover the gap in public bus transportation price, to maintain the current price so that it does not affect those who rely on the bus as their main mode of transportation.
 
+### Potential Job Loss
+
+Another key economic implication of autonomous vehicles is job loss - in particular, this could affect truck drivers, bus drivers, taxi driver, and other jobs that rely on transportation (maybe not quite airplanes). In particular, this greatly affects the trucking industry. As autonomous vehicles becomes more prevalent, mass numbers of truckers will no longer be needed, resulting in millions of lost jobs for truckers [8]. The truckers that do remain will primarily be kept around for truck maintenance, journey logging, and other administrative needs dealing with transportation of goods. Consequently, 
 
 # Safety Implications
 ---------
+<iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a></p>
 
-# Accessibility Implications
----------
+### Driving Safety
+
+### Cyber Security and Data Collection
+
+### Safety on Public Transportation
+
 
 # Concluding Remarks
 -------
@@ -88,3 +96,5 @@ With the advent of self-driving technology, public transportation will likely be
 [6] https://trid.trb.org/view/1138658
 
 [7] https://www.sciencedirect.com/science/article/pii/S0967070X17300811
+
+[8] https://theicct.org/sites/default/files/publications/Automation_long-haul_WorkingPaper-06_20180328.pdf
