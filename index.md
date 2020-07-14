@@ -57,9 +57,6 @@ The elements of human emotion and experience is cornerstone to the implementatio
 # Accessibility Implications
 ---------
 
-# Environmental Implications
-----------
-
 # Concluding Remarks
 -------
 
