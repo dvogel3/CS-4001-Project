@@ -30,7 +30,7 @@ According to research, humans (even older humans) already trust self-driving tec
 Although trust was generally high among most individuals, there is still a lingering fear among users of self-driving cars, especially in the technology's safety and reliability in high-speed environments (like highways) or long-distance travel [4]. 
 
 ![AutoPilot Study Results](Autopilot_trust.png)
-<p style="text-align: center;"> Figure 1: Trust Results from Tesla Autopilot Study </p>
+<p style="text-align: center;"> Figure 1: Trust Results from Tesla Autopilot Study. 95% Confidence Intervals. </p>
 
 Studies like these may be crucial to engendering trust in self-driving personal cars. Communities that seek to adopt legislation in allowing self-driving autonomous vehicles might want to pursue information campaigns to educate people on the safety of autonomous vehicle technology, only after more extensive research is conducted. 
 
