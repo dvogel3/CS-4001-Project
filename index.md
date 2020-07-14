@@ -69,7 +69,7 @@ Another key economic implication of autonomous vehicles is job loss - in particu
 
 # Safety Implications
 ---------
-<iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="800" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b"></a></p>
 
 ### Driving Safety
 
