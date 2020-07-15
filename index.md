@@ -77,11 +77,22 @@ Automation increases efficiency and productivity, in the public and private sphe
 ---------
 <iframe src="https://giphy.com/embed/lo5HLcAPFSgTZNTpAn" width="850" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+The final ethical dimension we look at is the safety implications that autonomous vehicles have on society. This ethical dimension is multi-faceted and includes driving safety, cyber security and data collection concerns, and safety in public transportation.
+
 ### Driving Safety
+
+To begin the discussion on driving safety, it's important to note that there isn't a lot of empirical research on the impact that autonomous vehicles have on driving safety, as autonomous vehicles are still a lab/research concept. However, the use of some autonomous driving tools like lane detection, collision avoidance, driver alertness detection, parking assistance, pedestrian detection, and others, have proven to be effective in mitigating potential accidents (or at least giving the driver a heads up so they can react, helping to prevent an accident from being in the worst case) [10]. Since the use of driver assistance technology has been proven to be effective in maintaining driver awareness and mitigating vehicular accidents, common industry opinion and research argue that fully autonomous vehicles can remove the human factor from driving. In doing so, the potential for human error in driving is removed, saving lives and creating safer driving conditions. 
+
+The implementation of fully autnomous vehicles would, of course, be a phased implementation [11]. First, as more research and study is completed on practical usage of fully autonomous vehicles, humans will still be responsible for maintaining control of the vehicle, in case of autonomous vehicle technology malfunction. But, after more study and technological improvements, humans will no longer be required, or responsible, for maintaining positive control of the vehicle, leaving humans to fully benefiting from the safety of autonomous technology.
+
 
 ### Cyber Security and Data Collection
 
 ### Safety on Public Transportation
+
+### Wrapping up Safety Implications
+
+In the big picture, I believe consequentialism would require us to move in the direction of implementing fully autonomous vehicles. This is because, even if fully autonomous vehicles only improved automobile safety marginally, 
 
 
 # Concluding Remarks
@@ -106,3 +117,7 @@ Automation increases efficiency and productivity, in the public and private sphe
 [8] D. Fagnanta, K. Kockelman,"Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations", _Transportation Research Part A: Policy and Practice_, vol. 77, pp. 167-181, 2015. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0965856415000804. [accessed July 14, 2020].
 
 [9] P. Slowik, B. Sharpe, "Automation in the long haul: Challenges and opportunities of autonomous heavy-duty trucking in the United States", _The International Council on Clean Transportation_, 2018. Available: https://theicct.org/sites/default/files/publications/Automation_long-haul_WorkingPaper-06_20180328.pdf. [accessed July 14, 2020].
+
+[10] K. Bengler, K. Dietmayer, B. Farber, M. Maurer, C. Stiller, H. Winner, "Three Decades of Driver Assistance Systems: Review and Future Perspectives", _IEEE Xplore_, 2014. Available: https://ieeexplore.ieee.org/abstract/document/6936444. [accessed July 15, 2020].
+
+[11] R. Remenyte-Prescott, J.D. Andrews, P.W.H. Chung, "An efficient phased mission reliability analysis for autonomous vehicles", _Reliability Engineering & System Safety_, vol. 95, no.3, pp. 226-235, 2010. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0951832009002397. [accessed July 15, 2020].
