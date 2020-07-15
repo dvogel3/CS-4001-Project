@@ -77,7 +77,7 @@ Automation increases efficiency and productivity, in the public and private sphe
 ---------
 <iframe src="https://giphy.com/embed/lo5HLcAPFSgTZNTpAn" width="850" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-The final ethical dimension we look at is the safety implications that autonomous vehicles have on society. This ethical dimension is multi-faceted and includes driving safety, cyber security and data collection concerns, and safety in public transportation.
+The final ethical dimension we look at is the safety implications that autonomous vehicles have on society. This ethical dimension is multi-faceted and includes driving safety, and cyber security and data collection concerns.
 
 ### Driving Safety
 
@@ -88,11 +88,14 @@ The implementation of fully autonomous vehicles would, of course, be a phased im
 
 ### Cyber Security and Data Collection
 
-### Safety on Public Transportation
+In terms of cyber security and data collection, there are a lot of concerns when it comes to autonomous vehicles. In terms of hardware and software security for the autonomous vehicle, researchers have identified particularly worrisome vulnerabilities, such as hacking the wireless Event Data Recorder system, jamming the GPS signal for the purposes of theft, modifying sensors and maps to distort perceptions that the autonomous vehicle bases decisions upon, and conducting Denial of Service (DoS) attacks to prevent receiving critical information, like software patch updates [12]. The only viable prevention strategy against cyber attacks on autonomous vehicles is to have 24/7 critical cyber response teams to consistently evaluate autonomous vehicle networks, GPS systems, and conduct continuous software patches. However, ensuring that software is always up to date and protecting autonomous vehicle networks is not enough. Given enough resources, malicious actors (potentially adversarial nation-state actors, or equivalents) are still able to develop malicious exploits, like zero-days that could cause catastrophic consequences.
+
+In addition to the potential software/hardware vulnerabilities that autonomous vehicles face, we must also consider data privacy of autonomous vehicle consumers. By nature of the autonomous vehicle's design, it could store a user's location data, financial information (like credit cards), etc. If stolen because of software or hardware vulnerabilities, this information could potentially be abused by targeted advertising, identity theft, financial fraud, tracking of individuals, etc [12]. There would be an inherent need for extensive legislation to protect consumer data, holding autonomous vehicle manufacturers and network providers responsible for securing and protecting the data that the autonomous vehicles hold.
+
 
 ### Wrapping up Safety Implications
 
-In the big picture, I believe consequentialism would require us to move in the direction of implementing fully autonomous vehicles. This is because, even if fully autonomous vehicles only improved automobile safety marginally, 
+In general, I believe ethical theories would be pretty split on general autonomous vehicle implementation. On one hand, consequentialism would say that autonomous vehicles are a safer alternative to human-driven vehicles because of the reducion in human error and potential reduction in vehicle accidents. On the other hand, the potential cybersecurity threat and threat to personal information harms the general class of consumers by infringing on their right to safety and security. It certainly wouldn't be socially or ethically responsible to allow mass use of autonomous vehicles without clear cybersecurity and data privacy regulations. The safety implications that arise with autonomous vehicles are among some of the most important implications to consider.
 
 
 # Concluding Remarks
@@ -121,3 +124,5 @@ In the big picture, I believe consequentialism would require us to move in the d
 [10] K. Bengler, K. Dietmayer, B. Farber, M. Maurer, C. Stiller, H. Winner, "Three Decades of Driver Assistance Systems: Review and Future Perspectives", _IEEE Xplore_, 2014. Available: https://ieeexplore.ieee.org/abstract/document/6936444. [accessed July 15, 2020].
 
 [11] R. Remenyte-Prescott, J.D. Andrews, P.W.H. Chung, "An efficient phased mission reliability analysis for autonomous vehicles", _Reliability Engineering & System Safety_, vol. 95, no.3, pp. 226-235, 2010. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0951832009002397. [accessed July 15, 2020].
+
+[12]
