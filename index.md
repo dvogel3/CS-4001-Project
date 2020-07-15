@@ -101,6 +101,10 @@ In general, I believe ethical theories would be pretty split on general autonomo
 # Concluding Remarks
 -------
 
+We haave reviewed the social, economic, and safety implications that autonomous vehicles would have on society. Each set of these ethical dimensions raise important questions of liability, responsibility, safety, and equality. Autonomous vehicle technology is definitely here to stay. But, it's important to consider the short-term and long-term ethical implications and their effects on society and people.
+
+Autonomous vehicles are new, exciting, and a true vision of the future! But, currently where we stand, there are a lot of issues to solve before the world is ready to enter into the age of The Jetsons - for now, autonomous vehicles are, and rightfully should still remain, a thing of the future.
+
 # References
 ----------
 [1] "Future of Driving", _Tesla_. Available: https://www.tesla.com/autopilot/. [accessed July 14, 2020].
@@ -125,4 +129,4 @@ In general, I believe ethical theories would be pretty split on general autonomo
 
 [11] R. Remenyte-Prescott, J.D. Andrews, P.W.H. Chung, "An efficient phased mission reliability analysis for autonomous vehicles", _Reliability Engineering & System Safety_, vol. 95, no.3, pp. 226-235, 2010. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0951832009002397. [accessed July 15, 2020].
 
-[12]
+[12] H. Lim, A. Taeihagh, "Autonomous Vehicles for Smart and Sustainable Cities: An In-Depth Exploration of Privacy and Cybersecurity Implications", _Energies_, vol. 11, no. 5, 2018. Available: https://www.mdpi.com/1996-1073/11/5/1062. [accessed July 15, 2020].
