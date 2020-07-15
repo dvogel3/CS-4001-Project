@@ -89,7 +89,7 @@ Automation increases efficiency and productivity, in the public and private sphe
 
 # References
 ----------
-[1] https://www.tesla.com/autopilot
+[1] "Future of Driving", _Tesla_. Available: https://www.tesla.com/autopilot/ [accessed July 14, 2020].
 
 [2] E. Mordini, "Technology and fear: is wonder the key?", _Trends in Biotechnology_, vol.25, no. 12, pp. 544-546, 2007. [Online Serial]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0167779907002661. [accessed July 14, 2020].
 
