@@ -105,6 +105,17 @@ We haave reviewed the social, economic, and safety implications that autonomous 
 
 Autonomous vehicles are new, exciting, and a true vision of the future! But, currently where we stand, there are a lot of issues to solve before the world is ready to enter into the age of The Jetsons - for now, autonomous vehicles are, and rightfully should still remain, a thing of the future.
 
+-----
+
+
+P.S. -
+
+Go Jackets!
+
+<iframe src="https://giphy.com/embed/U4k5p9obbDgmRug8aH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buzz-gt-georgia-tech-U4k5p9obbDgmRug8aH">via GIPHY</a></p>
+
+
+
 # References
 ----------
 [1] "Future of Driving", _Tesla_. Available: https://www.tesla.com/autopilot/. [accessed July 14, 2020].
