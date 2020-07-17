@@ -58,7 +58,7 @@ In addition to the public trust in the technology driving the autonomous buses, 
 
 The elements of human emotion and experience are cornerstone to the implementation of autonomous vehicles in everyday life. It's imperative to understand the consequentialist perspective in this ethical dimension. The adoption of self-driving cars and self-driving public transportation can have positive and negative impacts, especially in regards to engendering trust (in the case of developing awareness for the technology) or potentially engendering fear (such as in public buses because of a lack of some authoritarian or lawful figure). The social and human experience are some of the most important set of implications to consider on the discussion of autonomous vehicles.
 
-[Introduction](#introduction)     [Economic Implications](#economic-implications)     [Safety Implications](#safety-implications)     [Concluding Remarks](#concluding-remarks)     [References](#references)
+[Introduction](#introduction)  |   [Economic Implications](#economic-implications)  |  [Safety Implications](#safety-implications)  |  [Concluding Remarks](#concluding-remarks)  |  [References](#references)
 
 
 # Economic Implications
