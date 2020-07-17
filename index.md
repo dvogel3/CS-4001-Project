@@ -2,12 +2,13 @@
 layout: default
 ---
 
-### Page Navigation
+## Content Navigation
 
 - [Social Implications](#social-implications)
 - [Economic Implications](#economic-implications)
 - [Safety Implications](#safety-implications)
 - [Concluding Remarks](#concluding-remarks)
+- [References](#references)
 
 # Introduction
 ---------
