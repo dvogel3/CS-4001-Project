@@ -84,6 +84,8 @@ Another key economic implication of autonomous vehicles is job loss - in particu
 
 To wrap up the economic implications that autonomous driving technology can have on society, it's clear that automation increases efficiency and productivity, in the public and private spheres - but at a great cost. Most economic consequences pose great ethical challenges that need to be overcome in order for automation to be ready to be accepted by the general population.
 
+[Introduction](#introduction)  |   [Social Implications](#social-implications)  |  [Safety Implications](#safety-implications)  |  [Concluding Remarks](#concluding-remarks)  |  [References](#references)
+
 # Safety Implications
 ---------
 <iframe src="https://giphy.com/embed/lo5HLcAPFSgTZNTpAn" width="850" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -107,6 +109,8 @@ In addition to the potential software/hardware vulnerabilities that autonomous v
 ### Wrapping up Safety Implications
 
 In general, I believe ethical theories would be split on general autonomous vehicle implementation. On one hand, consequentialism would say that autonomous vehicles are a safer alternative to human-driven vehicles because of the reduction in human error and potential reduction in vehicle accidents. On the other hand, the potential cybersecurity threat and threat to personal information harms the general class of consumers by infringing on their right to safety and security. It certainly wouldn't be socially or ethically responsible to allow mass use of autonomous vehicles without clear cybersecurity and data privacy regulations. The safety implications that arise with autonomous vehicles are among some of the most important implications to consider.
+
+[Introduction](#introduction)  |   [Social Implications](#social-implications)  |  [Economic Implications](#economic-implications)  |  [Concluding Remarks](#concluding-remarks)  |  [References](#references)
 
 
 # Concluding Remarks
